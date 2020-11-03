@@ -6,7 +6,7 @@ module.exports = {
       summary: `福岡からそれなりの情報を発信します。`,
     },
     description: `Gatsbyでどこまでできるか`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://optimistic-wescoff-a7d438.netlify.app/`,
     social: {
       twitter: `sasasa`,
     },
